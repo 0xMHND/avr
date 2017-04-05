@@ -1,0 +1,7 @@
+
+
+TCNT0 : Clock.
+TCNT1 : Alarm sound frequency. PD2-7, PC0-7
+TCNT2 : PWM dimming control, PB7
+TCNT3 : PWM sound level control
+
