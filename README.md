@@ -1,0 +1,2 @@
+# avr
+Hacking atmega128 
